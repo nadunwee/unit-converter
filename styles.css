@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;800;900&display=swap');
+
+body {
+  background-color: rgba(0, 0, 0, 0.877);
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  min-height: 100vh; /* Makes sure the body covers the full viewport height */
+  margin: 0; /* Remove default body margin */
+  
+}
+
+.container {
+  display: flex;
+  flex-direction: column; /* Stacks the child elements vertically */
+  justify-content: center; /* Centers the child elements horizontally */
+  align-items: center; /* Centers the child elements vertically */
+  width: 38%;
+  text-align: center;
+  font-family: Inter;
+  
+}
+.first-container {
+  background-color: darkcyan;
+  border: none;
+  width: 100%;
+  font-size: 150%;
+  font-weight: 700;
+  color: white;
+  border-radius: 20px 20px 0 0;
+}
+#value {
+  font-size: 60px;
+  font-weight: 900;
+}
+.second-container {
+  background-color: white;
+  border: none;
+  width: 100%;
+  border-radius: 0 0 20px 20px;
+  font-size: 85%;
+}
+.length-div {
+  margin-top: 20px;
+}
+.mass-div {
+  margin-bottom: 20px;
+}
+.div {
+  margin-top: 40px;
+}
+.heading {
+  font-weight: bold;
+  color: rgb(53, 52, 52);
+}
+.values {
+  color: rgb(102, 102, 102);
+}
