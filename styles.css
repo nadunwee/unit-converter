@@ -33,6 +33,26 @@ body {
   font-size: 60px;
   font-weight: 900;
 }
+input {
+  border-style: none;
+  display: flex;
+  outline: none;
+  width: 250px;
+  text-align: center;
+  background: none;
+  font-family: Inter;
+  font-weight: 800;
+  font-size: 97.5723px;
+  color: #ffffff;
+  caret-color: rgba(255, 255, 255, 0.5);
+  margin-left: 130px;
+  transition: 0.5s;
+}
+input::placeholder {
+  color: aliceblue;
+  opacity: 0.3;
+}
+
 .second-container {
   background-color: white;
   border: none;
