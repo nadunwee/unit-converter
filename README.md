@@ -6,7 +6,7 @@ Users should be able to:
 - Enter the amount they wanted to convert
 
 ### Screenshot
-![screenshot]([https://github.com/nadunwee/password_generator/blob/main/Screenshots/ps_gen.jpg](https://github.com/nadunwee/unit-converter/blob/main/screenshots/unit%20converter%20.jpg))
+![screenshot](screenshots/unit converter .jpg)
 
 ## My process
 
