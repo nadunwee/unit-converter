@@ -6,7 +6,7 @@ Users should be able to:
 - Enter the amount they wanted to convert
 
 ### Screenshot
-![screenshot](screenshots/unit converter .jpg)
+![screenshot]([screenshots/unit converter .jpg])
 
 ## My process
 
